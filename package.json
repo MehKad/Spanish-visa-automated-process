@@ -1,0 +1,23 @@
+{
+  "name": "spanish-visa-automated-process",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MehKad/Spanish-visa-automated-process.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MehKad/Spanish-visa-automated-process/issues"
+  },
+  "homepage": "https://github.com/MehKad/Spanish-visa-automated-process#readme",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
